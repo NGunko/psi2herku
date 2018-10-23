@@ -15,7 +15,7 @@ SECRET_KEY = 'b9*=j!6(zv^h7q+wjcxv!#yrhq0^h&kk2yr@&we&agb^+jftw0'
 DEBUG = True
 
 
-ALLOWED_HOSTS = [u'fathomless-meadow-20196.herokuapp.com']
+ALLOWED_HOSTS = [u'young-savannah-84459.herokuapp.com']
 
 # Application definition
 INSTALLED_APPS = (
